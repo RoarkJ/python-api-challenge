@@ -1,0 +1,7 @@
+1.) Wind Speeds in both hemispheres were for the most part below 15mph.
+2.) Cloudiness in both hemispheres did not follow a trend line at all.
+3.) Northern hemisphere humidity levels were much higher than in southern hemisphere.
+This makes sense because the seasons are opposite between the two hemispheres.
+4.) The only trend lines that the data points had reasonable relationship to the
+trend lines were the ones regarding max temp.
+All others did not follow the trend line at any significant level.
